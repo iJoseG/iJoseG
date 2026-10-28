@@ -7,7 +7,12 @@ Estudiante de **Ingeniería Electrónica** enfocado en **instrumentación indust
 ### 🛠️ Herramientas & Entorno
 
 **Lenguajes & Herramientas:**
-[![My Skills](https://skillicons.dev/icons?i=c,py,bash,arch,linux,git,github&theme=dark)](https://skillicons.dev)
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,py,bash,arch,linux,git,github&theme=dark" />
+  </a>
+</p>
 
 ---
 
