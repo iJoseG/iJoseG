@@ -16,9 +16,10 @@ Estudiante de **Ingeniería Electrónica** enfocado en **instrumentación indust
 
 ---
 
-### 📊 Actividad en GitHub
+### 📊 GitHub Stats
 
 <div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=iJoseG&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iJoseG&layout=compact&langs_count=4&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=iJoseG&show_icons=true&theme=tokyonight&hide_border=true" />
+  <br/><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iJoseG&theme=tokyonight&hide_border=true" />
 </div>
