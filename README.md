@@ -1,28 +1,24 @@
-### Hola, soy [Tu Nombre] 👋
+### Hola, soy iJoseG 👋
 
-Estudiante de Ingeniería Electrónica y desarrollador enfocado en **sistemas embebidos, telemetría industrial (IoT), desarrollo web y entornos Linux**. Me gusta automatizar procesos, diagnosticar protocolos de comunicación a bajo nivel y construir herramientas ligeras.
+Estudiante de **Ingeniería Electrónica** enfocado en **instrumentación industrial, sistemas embebidos, protocolos de comunicación y entornos Linux**. Me gusta automatizar tareas con scripts, explorar hardware y mantener mi entorno de trabajo en Arch Linux.
 
 ---
 
-### 🛠️ Stack & Herramientas
+### 🛠️ Herramientas & Entorno
 
-**Hardware, Redes & IoT:**
+**Hardware & Protocolos:**
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
-![Node-RED](https://img.shields.io/badge/Node--RED-8F0000?style=flat-square&logo=nodered&logoColor=white)
-![Modbus / LoRaWAN](https://img.shields.io/badge/Protocolos-Modbus%20RTU%20%7C%20LoRaWAN-00599C?style=flat-square)
+![Modbus RTU](https://img.shields.io/badge/Modbus%20RTU-RS--485-00599C?style=flat-square)
+![LoRaWAN](https://img.shields.io/badge/IoT-LoRaWAN-228B22?style=flat-square)
 
-**Lenguajes & Desarrollo:**
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,js,html,css,bash&theme=dark)](https://skillicons.dev)
-
-**Entorno & Flujo de Trabajo:**
-[![My Env](https://skillicons.dev/icons?i=arch,linux,neovim,git,github&theme=dark)](https://skillicons.dev)
+**Lenguajes & Herramientas:**
+[![My Skills](https://skillicons.dev/icons?i=c,py,bash,lua,arch,linux,git,github&theme=dark)](https://skillicons.dev)
 
 ---
 
 ### 📊 Actividad en GitHub
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=iJoseG&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iJoseG&layout=compact&langs_count=6&theme=tokyonight&hide_border=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=iJoseG&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iJoseG&layout=compact&langs_count=4&theme=tokyonight&hide_border=true"/>
 </div>
