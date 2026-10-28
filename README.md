@@ -6,11 +6,6 @@ Estudiante de **Ingeniería Electrónica** enfocado en **instrumentación indust
 
 ### 🛠️ Herramientas & Entorno
 
-**Hardware & Protocolos:**
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
-![Modbus RTU](https://img.shields.io/badge/Modbus%20RTU-RS--485-00599C?style=flat-square)
-![LoRaWAN](https://img.shields.io/badge/IoT-LoRaWAN-228B22?style=flat-square)
-
 **Lenguajes & Herramientas:**
 [![My Skills](https://skillicons.dev/icons?i=c,py,bash,arch,linux,git,github&theme=dark)](https://skillicons.dev)
 
