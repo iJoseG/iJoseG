@@ -12,7 +12,7 @@ Estudiante de **Ingeniería Electrónica** enfocado en **instrumentación indust
 ![LoRaWAN](https://img.shields.io/badge/IoT-LoRaWAN-228B22?style=flat-square)
 
 **Lenguajes & Herramientas:**
-[![My Skills](https://skillicons.dev/icons?i=c,py,bash,lua,arch,linux,git,github&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,py,bash,arch,linux,git,github&theme=dark)](https://skillicons.dev)
 
 ---
 
